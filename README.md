@@ -122,6 +122,6 @@ streamlit run src/dashboard.py
 
 ## 👨‍💻 Author
 
-**Suresh Balaji**
+**Nethra B V**
 
 Bachelor of Engineering – Artificial Intelligence and Machine Learning
