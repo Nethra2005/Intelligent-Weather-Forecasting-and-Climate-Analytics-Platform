@@ -1,2 +1,10 @@
-# Intelligent-Weather-Forecasting-and-Climate-Analytics-Platform
-Machine Learning-based Weather Forecasting and Climate Analytics Platform using Python, Pandas, Scikit-Learn, and Streamlit for weather prediction, data analysis, visualization, and climate trend forecasting.
+# Intelligent Weather Forecasting and Climate Analytics Platform
+
+Features:
+- Data Cleaning
+- Feature Engineering
+- EDA
+- Model Comparison (Linear Regression, Decision Tree, Random Forest)
+- Prediction Engine
+- Streamlit Dashboard
+- CSV Report Generation
